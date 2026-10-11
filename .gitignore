@@ -1,0 +1,14 @@
+# Compiled executables
+main
+*.out
+
+# macOS build artifacts
+*.dSYM/
+
+# Object files
+*.o
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
